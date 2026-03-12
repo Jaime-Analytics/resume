@@ -11,7 +11,7 @@ Operations Manager
 - Big impact Project 2
 - Big impact project 3
 
-### Projects
+## Projects
 -SQL & Power BI
 -SQL & Power BI
 -SQL & Power BI
