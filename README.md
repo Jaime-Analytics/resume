@@ -39,7 +39,6 @@ building
 
 ## Education
 - Business Intelligence Data Analysis and Reporting | Southern Alberta Institute of Technology *(May 2025)*
-  
 - Administration & Hospitality Management | San Ignacio de Loyola Institue *(December 2012)*
 
 ## Certifications
