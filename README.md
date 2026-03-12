@@ -41,9 +41,10 @@ building
 - Administration & Hospitality Management | San Ignacio de Loyola Institue (December 2012)
 
 ## Certifications
-- Salesforce Admin Certification Specialization – Oct 2025
-- SAIT Business Intelligence Data Analysis and Reporting – Jun 2025
-- Cisco Data Analytics – Aug 2025 Python Essentials 1 & 2 – Mar/Apr 2025
-- LinkedIn Learning Power BI, GitHub, Digital Marketing, Social Media Strategy – 2020/2025
+- Salesforce Admin Certification Specialization (October 2025)
+- SAIT Business Intelligence Data Analysis and Reporting (June 2025)
+- Cisco Data Analytics (August 2025)
+- Python Essentials 1 & 2 (March - April 2025)
+- LinkedIn Learning Power BI, GitHub, Digital Marketing, Social Media Strategy (2020 - 2025)
 
 
